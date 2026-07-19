@@ -1,0 +1,5 @@
+# PATHS
+/node_modules/
+
+# FILES
+/package-lock.json
